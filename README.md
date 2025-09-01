@@ -1,21 +1,21 @@
-#Eco-Connect
+# Eco-Connect
 
 EcoConnect, an e-commerce research project analyzing consumer behavior, trust, and sustainability factors influencing online sustainable product purchases.
 
-##Features
+## Features
 
 - Data analysis using Excel
 - Interactive dashboards and visualizations with AWS QuickSight
 - Insights into consumer interest in sustainable products
 
 
-##Tech Stack
+## Tech Stack
 
 - Excel (Data Preparation & Analysis)
 - AWS QuickSight (Visualization & Insights)
 
 
-###Usage
+### Usage
 
 1. Import dataset in Excel for preprocessing.
 2. Upload processed data to AWS QuickSight.
@@ -23,22 +23,22 @@ EcoConnect, an e-commerce research project analyzing consumer behavior, trust, a
 
 
 
-##Categories
+## Categories
 
 ![categories](https://github.com/user-attachments/assets/b6dfb22c-f8cf-4f89-8e9b-4291ff1ec9e7)
 
 
-##Product type vs Purchase
+## Product type vs Purchase
 
 ![product type vs purchase](https://github.com/user-attachments/assets/817e9874-6d02-4731-a743-86638d6bb3b9)
 
 
-##Product type vs Category
+## Product type vs Category
 
 ![product type vs Category](https://github.com/user-attachments/assets/e1c166fd-4d75-4593-a32d-4d01979b1684)
 
 
-###Goal
+### Goal
 
 To encourage sustainable choices by leveraging data analytics and visualization.
 
