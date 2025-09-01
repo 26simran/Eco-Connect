@@ -35,7 +35,7 @@ EcoConnect, an e-commerce research project analyzing consumer behavior, trust, a
 
 ## Product type vs Category
 
-https://github.com/26simran/Eco-Connect/blob/main/assets/product%20type%20vs%20rating.jpg
+![product type vs Category](https://github.com/user-attachments/assets/a7d6bdf7-4846-4795-b6b1-71cb5bf6cf3f)
 
 
 ### Goal
